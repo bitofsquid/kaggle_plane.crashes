@@ -1,11 +1,9 @@
 # plane_crashes
 Exploring Kaggle dataset on airplane crashes since 1908. 
 
-Kaggle provides guidance on specific questions to answer using this dataset (https://www.kaggle.com/saurograndi/airplane-crashes-since-1908). The corresponding .R script attempts to provide a graphical representation of the answer to the first two of these questions. 
+Kaggle provides guidance on questions to answer using this dataset (https://www.kaggle.com/saurograndi/airplane-crashes-since-1908). The .R script in this repo attempts to provide an interesting graphical representation of the answer to two of these questions regarding total number of plane crashes and corresponding occupancy per plane.
 
-Here's how it turned out:
+Below is how the final chart turned out:
 
 ![test](https://github.com/jtryker/plane_crashes/blob/master/Rplot.png)
 
-
-Enjoy!
